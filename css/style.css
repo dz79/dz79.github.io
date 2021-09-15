@@ -353,7 +353,7 @@ input[type="radio"]:not(:checked) + label:after {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-publish:before {
+.icon-publications:before {
   content: "\e7b3";
 }
 
@@ -369,7 +369,7 @@ input[type="radio"]:not(:checked) + label:after {
   content: "\e7d1";
 }
 
-.icon-gallery:before {
+.icon-about:before {
   content: "\e7d7";
 }
 
